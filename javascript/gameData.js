@@ -13,7 +13,7 @@ const games = {
         title: "Urban Basketball",
         url: "game-template.html?id=UrbanBasketball",
         originalUrl: "https://www.hahagames.com/game/urban-basketball",
-        image: "images/proxyandgameimages/gameimages/cookie.jpeg",
+        image: "images/proxyandgameimages/gameimages/IMG_1744.jpeg",
         description: "Unblocked Urban Basketball.",
         ratings: [],
         likes: 0,
