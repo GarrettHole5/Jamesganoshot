@@ -9,6 +9,16 @@ const games = {
         likes: 0,
         dislikes: 0,
     },
+    UrbanBasketball: {
+        title: "Urban Basketball",
+        url: "game-template.html?id=UrbanBasketball",
+        originalUrl: "https://www.snokido.com/game/urban-basketball",
+        image: "images/proxyandgameimages/gameimages/cookie.jpeg",
+        description: "Unblocked Urban Basketball.",
+        ratings: [],
+        likes: 0,
+        dislikes: 0,
+    },       
     cookieClicker: {
         title: "Cookie Clicker (first method)",
         url: "game-template.html?id=cookieClicker",
