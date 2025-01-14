@@ -12,7 +12,7 @@ const games = {
     UrbanBasketball: {
         title: "Urban Basketball",
         url: "game-template.html?id=UrbanBasketball",
-        originalUrl: "https://www.snokido.com/game/urban-basketball",
+        originalUrl: "https://www.hahagames.com/game/urban-basketball",
         image: "images/proxyandgameimages/gameimages/cookie.jpeg",
         description: "Unblocked Urban Basketball.",
         ratings: [],
