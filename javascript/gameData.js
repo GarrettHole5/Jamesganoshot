@@ -13,7 +13,7 @@ const games = {
         title: "Football Bros",
         url: "game-template.html?id=FootballBros",
         originalUrl: "http://footballbros.io",
-        image: "images/proxyandgameimages/gameimages/IMG_1744.jpeg",
+        image: "images/proxyandgameimages/gameimages/image.jpg",
         description: "Unblocked Football Bros.",
         ratings: [],
         likes: 0,
